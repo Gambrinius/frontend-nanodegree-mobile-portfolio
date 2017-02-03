@@ -9,6 +9,18 @@ html {
 body { margin: 0; font-size: 14px; line-height: 1.61; font-weight: 400; background: #fff;
        font-family: 'Open Sans', sans-serif; color: #333;}
 
+.profile { padding: 0 0.5em; color: #C90B0B; max-width: 45em; margin: 0 auto;}
+.profile img { border-radius: 40px; float: left; }
+.profile p { font-size:1.5em; font-weight: bold; padding-left: 4em;}
+.profile p span { font-size: 0.8em; font-weight: normal;}
+
+.container { max-width: 45em; margin: 0 auto; }
+
+.hero { padding: 2em; background-color: #f8f8f8; font-size:1.2em;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+}
+
 a { color: #12C; }
 a:visited { color: #61C; }
 a:focus { outline: thin dotted; }
